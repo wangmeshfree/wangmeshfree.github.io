@@ -120,6 +120,9 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+user_groups:
+  - Researchers
 ---
 
 My research interest is the numerical methods for PDEs as opposed to using commercial softwares.
