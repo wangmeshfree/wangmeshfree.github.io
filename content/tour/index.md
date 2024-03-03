@@ -1,54 +1,126 @@
 ---
-title: Tour
-date: 2022-10-24
+# Display name
+title: 王家睿
 
-type: landing
+# Name pronunciation (optional)
+name_pronunciation: Jiarui Wang
 
-sections:
-  - block: slider
-    content:
-      slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+# Full name (for SEO)
+first_name: Jiarui
+last_name: Jiarui
+
+# Status emoji
+status:
+  icon: ☕️
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: Professor of Artificial Intelligence
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: Brown University
+    url: https://www.stanford.edu/
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interest is the numerical methods for PDEs as opposed to using commercial softwares.
+
+
+
+# Interests to show in About widget
+interests:
+  - Meshfree methods for solids and shells
+  - Strong form collocation methods
+  - Extreme deformation problems
+
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD in Civil Engineering  
+      institution: Penn State
+      year: 2021
+    - course: MEng in Xiamen University 
+      institution: Massachusetts Institute of Technology
+      year: 2018
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
+
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+skills:
+  - name: Technical
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fab
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: database
+        icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera-retro
+        icon_pack: fas
+
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
+
+My research interest is the numerical methods for PDEs as opposed to using commercial softwares.
+{style="text-align: justify;"}
