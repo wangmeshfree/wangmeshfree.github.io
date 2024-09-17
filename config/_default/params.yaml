@@ -40,6 +40,8 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    font-size: 18px; /* set the font size of the header to 18 pixels */
+    height: 3em; /* set the height of the header to 3 times the font size */
 
 # Site footer
 
