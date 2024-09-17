@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王家睿
+title: Jiarui Wang 王家睿
 
 # Name pronunciation (optional)
 name_pronunciation: Jiarui Wang
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -122,7 +122,7 @@ social:
 highlight_name: true
 
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 My research interest is the numerical methods for PDEs as opposed to using commercial softwares.
