@@ -32,6 +32,9 @@ marketing:
 # Site header
 
 header:
+  font_size_h1: "32px"
+  font_size_h2: "28px"
+  font_size_h3: "24px"
   navbar:
     # enable: true
     # align: "center"
