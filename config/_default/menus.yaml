@@ -5,7 +5,7 @@
 
 main:
   - name: main
-    url: main
+    url: hero
     weight: 10
   - name: News
     url: post
