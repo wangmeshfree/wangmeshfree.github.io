@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: montserrat
-  font_size: L
+  font_size: x-large
 
 # SEO
 
