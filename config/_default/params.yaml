@@ -33,15 +33,15 @@ marketing:
 
 header:
   navbar:
-    enable: true
-    align: "center"
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: false
-    font-size: "36px"
-    height: "10em"
+    # enable: true
+    # align: "center"
+    # show_logo: true
+    # show_language: false
+    # show_day_night: true
+    # show_search: true
+    # highlight_active_link: false
+    # font-size: "36px"
+    # height: "10em"
 # Site footer
 
 footer:
