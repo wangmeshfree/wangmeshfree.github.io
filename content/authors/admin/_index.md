@@ -122,7 +122,7 @@ social:
 highlight_name: true
 
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 
 My research interest is the numerical methods for PDEs as opposed to using commercial softwares.
