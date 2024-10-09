@@ -41,12 +41,12 @@ education:
     - course: PhD in Civil Engineering  
       institution: Penn State
       year: 2021
-    - course: MEng in Xiamen University 
-      institution: Massachusetts Institute of Technology
+    - course: MEng in Engineering Mechanics
+      institution: Xiamen University 
       year: 2018
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BS in Civil Engineering
+      institution: Inner Mongolia University
+      year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -95,7 +95,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:wangjr@sustech.edu.cn'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=tOqahkwAAAAJ&hl=en
