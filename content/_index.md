@@ -73,7 +73,9 @@ sections:
         {{< video src="spinodal.mp4" controls="yes" >}}
     design:
       columns: '1'
-
+      spacing:
+        padding: ['40px', '0', '40px', '0']
+      css_class: fullscreen
 
       
 ---
