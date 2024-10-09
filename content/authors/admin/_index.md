@@ -3,7 +3,7 @@
 title: Jiarui Wang 王家睿
 
 # Name pronunciation (optional)
-name_pronunciation: Jiarui Wang
+# name_pronunciation: Jiarui Wang
 
 # Full name (for SEO)
 first_name: Jiarui
