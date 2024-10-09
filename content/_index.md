@@ -37,15 +37,15 @@ sections:
       columns: '1'
   
   - block: markdown
-    content:
+    content: 
       title:
       subtitle: ''
-      text:
+      text: {{< video src="spinodal.mp4" controls="yes" >}}
     design:
       columns: '1'
       background:
         image: 
-          filename: spinodal.mp4
+          filename: coder.jpg
           filters:
             brightness: 1
           parallax: false
