@@ -15,7 +15,7 @@ sections:
         <br>
         
         **Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.**
-        
+
         **南方科技大学力学与航空航天工程系**
   
   - block: collection
@@ -37,25 +37,41 @@ sections:
       view: card
       columns: '1'
   
+
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      title: |
+        Shell-based spinodal structure simulation by meshfree method
+      subtitle:
+      text: |
+        {{< video src="spinodal.mp4" controls="yes" >}}
     design:
       columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
       spacing:
         padding: ['40px', '0', '40px', '0']
       css_class: fullscreen
+
+
+
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: coders.jpg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ['40px', '0', '40px', '0']
+  #     css_class: fullscreen
   
   - block: markdown
     content:
@@ -66,17 +82,6 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title: 
-      subtitle:
-      text: |
-        {{< video src="spinodal.mp4" controls="yes" >}}
-    design:
-      columns: '1'
-      spacing:
-        padding: ['40px', '0', '40px', '0']
-      css_class: fullscreen
 
       
 ---
