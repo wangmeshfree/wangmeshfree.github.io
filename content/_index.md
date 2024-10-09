@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.** /
+        **Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.**
         **南方科技大学力学与航空航天工程系**
   
   - block: collection
@@ -37,15 +37,15 @@ sections:
       columns: '1'
   
   - block: markdown
-    content: 
+    content:
       title:
       subtitle: ''
-      text: 
+      text:
     design:
       columns: '1'
       background:
         image: 
-          filename: coder.jpg
+          filename: coders.jpg
           filters:
             brightness: 1
           parallax: false
