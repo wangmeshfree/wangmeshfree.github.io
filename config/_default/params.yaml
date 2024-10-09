@@ -102,7 +102,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapbox'
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
