@@ -64,4 +64,16 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
+  - block: markdown
+    content:
+      title: 
+      subtitle:
+      text: |
+        {{< video src="spinodal.mp4" controls="yes" >}}
+    design:
+      columns: '1'
+
+
+      
 ---
