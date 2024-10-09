@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.**
+        **Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.** /
         **南方科技大学力学与航空航天工程系**
   
   - block: collection
