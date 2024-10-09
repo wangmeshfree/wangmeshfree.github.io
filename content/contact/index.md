@@ -19,9 +19,9 @@ sections:
         postcode: '518055'
         country: CHINA
         country_code: CHN
-      coordinates:
-        latitude: '22.5940'
-        longitude: '113.9989'
+      # coordinates:
+      #   latitude: '22.5940'
+      #   longitude: '113.9989'
       directions: Room 819, North Tower, College of Engineering, SUSTech
       # appointment_url: 'https://calendly.com'
       #contact_links:
@@ -53,7 +53,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: sustech.png
           filters:
             brightness: 1
           parallax: false
