@@ -13,20 +13,17 @@ sections:
       email: wangjr@sustech.edu.cn
       phone: +86 0755-8801-1432
       address: 
-        street: Room 819, North Tower, College of Engineering, SUSTech, 1088 Xueyuan Blvd, Nanshan
+        street: 1088 Xueyuan Blvd, Nanshan
         city: Shenzhen
         region: Guangdong
         postcode: '518055'
         country: CHINA
         country_code: CHN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        latitude: '22.5940'
+        longitude: '113.9989'
+      directions: Room 819, North Tower, College of Engineering, SUSTech
+      # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
