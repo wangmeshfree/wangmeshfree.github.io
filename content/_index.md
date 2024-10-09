@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wang's Research Group
+        Wang's Research Group| Computational Mechanics with Meshfree Methods
       image:
         filename: welcome.jpg
       text: |

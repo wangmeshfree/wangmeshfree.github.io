@@ -1,5 +1,5 @@
 ---
-title: New article about composite modelling
+title: NEW ARTICLE ABOUT COMPOSITE MODELLING IS ONLINE 
 date: 2021-08-05
 image:
   focal_point: 'bottom'
