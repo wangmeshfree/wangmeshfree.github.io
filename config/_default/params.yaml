@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: coffee
   theme_night:
   font: montserrat
-  font_size: x-large
+  font_size: xl
 
 # SEO
 
