@@ -8,7 +8,7 @@
 appearance:
   theme_day: Minimal
   theme_night:
-  font: montserrat
+  font: my_font_set
   font_size: xl
 
 # SEO
