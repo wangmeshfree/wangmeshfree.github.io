@@ -21,8 +21,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Brown University
-    url: https://www.stanford.edu/
+  - name: SUSTech
+    url: https://mae.sustech.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is the numerical methods for PDEs as opposed to using commercial softwares.
