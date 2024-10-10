@@ -25,7 +25,7 @@ sections:
       text:
       count: 5
       filters:
-        author: ''
+        # author: ''
         category: ''
         exclude_featured: false
         publication_type: ''
