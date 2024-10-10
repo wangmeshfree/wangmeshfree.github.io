@@ -3,7 +3,7 @@ title: LATEST NEWS
 
 # Listing view
 view: compact
-authors: ''
+# authors: ''
 # Optional banner image (relative to `assets/media/` folder).
 # banner:
 #   caption: ''
