@@ -41,7 +41,7 @@ education:
     - course: PhD in Civil Engineering  
       institution: Penn State
       year: 2021
-    - course: MEng in Engineering Mechanics
+    - course: MS in Engineering Mechanics
       institution: Xiamen University 
       year: 2018
     - course: BS in Civil Engineering
