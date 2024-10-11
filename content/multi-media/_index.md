@@ -5,38 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        Wang's Research Group| Computational Mechanics with Meshfree Methods
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        **Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.**
 
-        **南方科技大学力学与航空航天工程系**
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 2
-      filters:
-        # author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
 
   - block: markdown
     content:
