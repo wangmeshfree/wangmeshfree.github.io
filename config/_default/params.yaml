@@ -9,7 +9,7 @@ appearance:
   theme_day: sustech
   theme_night:
   font: my_font_set
-  font_size: xl
+  font_size: l
 
 # SEO
 
