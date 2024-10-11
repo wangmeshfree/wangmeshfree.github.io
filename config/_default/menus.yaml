@@ -10,8 +10,8 @@ main:
   - name: PEOPLE
     url: people
     weight: 30
-  - name: EVENTS
-    url: event
+  - name: MULTI-MEDIA
+    url: multi-media
     weight: 40
   - name: PUBLICATIONS
     url: publication
