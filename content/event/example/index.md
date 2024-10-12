@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: [转载]第五届全国力学博士生学术论坛征文通知
 
 event: abs
 event_url: https://mp.weixin.qq.com/s/NHDiH_16cnj26nVURx_O8A
