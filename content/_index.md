@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wang's Research Group| Computational Mechanics with Meshfree Methods
+        Wang's Research Group|
       image:
         filename: welcome.jpg
       text: |
@@ -17,7 +17,42 @@ sections:
         **Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.**
 
         **南方科技大学力学与航空航天工程系**
-  
+
+
+  - block: collection
+    content:
+      title: Recent & Upcoming Events
+      subtitle:
+      text:
+      count: 1
+      filters:
+        # author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
+
+
+  - block: markdown
+    content:
+      title: |
+        Shell-based spinodal structure simulation by meshfree method
+      subtitle:
+      text: |
+        {{< video src="spinodal.mp4" controls="yes" >}}
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '40px', '0']
+      css_class: fullscreen
+
+
   - block: collection
     content:
       title: Latest News
@@ -38,18 +73,6 @@ sections:
       columns: '1'
   
 
-  - block: markdown
-    content:
-      title: |
-        Shell-based spinodal structure simulation by meshfree method
-      subtitle:
-      text: |
-        {{< video src="spinodal.mp4" controls="yes" >}}
-    design:
-      columns: '1'
-      spacing:
-        padding: ['40px', '0', '40px', '0']
-      css_class: fullscreen
 
 
 
