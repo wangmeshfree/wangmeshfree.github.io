@@ -1,7 +1,7 @@
 ---
 title: Example Event
 
-event: [转载] 第五届全国力学博士生学术论坛征文通知
+event: abs
 event_url: https://mp.weixin.qq.com/s/NHDiH_16cnj26nVURx_O8A
 
 location: 广东省 广州市
@@ -14,7 +14,7 @@ address:
 
 summary: 111
 
-abstract: ' 本届全国力学博士生学术论坛活动主要面向全国各高等院校和科研机构力学学科及相关领域的在读博士生和博士生导师，设固体力学、流体力学、动力学与控制、生物力学、软物质与交叉力学、航空航天与爆炸冲击、计算力学与人工智能等分会场。'
+abstract: ' abs'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
