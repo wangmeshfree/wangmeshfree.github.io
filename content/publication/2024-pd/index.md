@@ -3,7 +3,7 @@ title: "A stable formulation of correspondence‐based peridynamics with a compu
 authors:
 - J. Wang
 - M. Behzadinasab
-- W. LIi
+- W. Li
 - Y. Bazilevs
 # author_notes:
 # - "Equal contribution"
