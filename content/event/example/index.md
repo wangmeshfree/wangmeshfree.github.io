@@ -1,24 +1,27 @@
 ---
 title: Example Event
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: [转载] 第五届全国力学博士生学术论坛征文通知
+event_url: https://mp.weixin.qq.com/s/NHDiH_16cnj26nVURx_O8A
 
-location: Wowchemy HQ
+location: 广东省 广州市
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 待定
+  city: 广州
+  region: 广东
+  postcode: 
+  country: CHINA
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 中国力学学会第五届全国力学博士生学术论坛将于11月29 - 12月1日在广东省广州市举行。本次会议由中国力学学会主办，华南理工大学、中山大学、南方科技大学、周培源基金会和广东省力学学会联合承办。
+
+全国力学博士生学术论坛以培养和发现青年人才为目的，展示近年来我国力学博士研究生在相关领域的研究进展和成果，探讨力学学科所面临的机遇和挑战，引导力学方向的博士研究生了解力学学科前沿领域的最新进展和发展趋势，增进全国各地博士研究生之间的交流。
+
+abstract: ' 本届全国力学博士生学术论坛活动主要面向全国各高等院校和科研机构力学学科及相关领域的在读博士生和博士生导师，设固体力学、流体力学、动力学与控制、生物力学、软物质与交叉力学、航空航天与爆炸冲击、计算力学与人工智能等分会场。'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-11-29T13:00:00Z'
+date_end: '2024-12-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
