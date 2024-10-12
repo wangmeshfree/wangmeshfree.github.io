@@ -1,9 +1,9 @@
 ---
 title: "Superconvergent gradient smoothing meshfree collocation method"
 authors:
-- Dongdong Wang
-- Jiarui Wang 
-- Junchao Wu
+- D. Wang
+- J. Wang 
+- J. Wu
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
