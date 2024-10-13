@@ -1,12 +1,12 @@
 ---
-title: "Upwind reproducing kernel collocation method for convection-dominated problems"
+title: "Temporal stability of collocation, Petrov–Galerkin, and other non-symmetric methods in elastodynamics and an energy conserving time integration"
 authors:
 - J. Wang
 - M. Hillman
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2024-01-01T00:00:00Z"
+date: "2022-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
