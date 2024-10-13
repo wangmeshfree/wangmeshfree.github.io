@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 publication: "*Computer Methods in Applied Mechanics and Engineering*, 420, 116711"
 publication_short: ""
 
-abstract: Because of the best approximation property, traditional Bubnov–Galerkin numerical methods have proven immensely successful in modeling self-adjoint problems, such as heat conduction, elasticity, and so on. However, a numerical instability arises in these (and central finite difference) methods for problems with strong convection. In this class of problems, the convective transport term can lead to large spurious oscillations but can be handled by the class of Petrov–Galerkin methods. In particular, the upwind-type schemes and their variational and subgrid descendants have been substantially developed over the years for an effective weak-form Galerkin solution that precludes these instabilities. Nevertheless, the scale of development of upwind methods for strong-form collocation is substantially smaller, where numerical oscillations are also observed when they are straightforwardly applied to convection-dominated problems without special treatment. To this end, this paper presents a new upwind collocation method. First, the connection between the upwind finite difference scheme and the gradient smoothing technique in meshfree methods is established. It is then shown that selecting the collocation points as meshfree nodal points is not optimal; selecting the collocation points according to the flow direction and Péclet number is then studied. The upwind effect is achieved without introducing artificial parameters and is trivial to generalize for multi-dimensional cases. Cross-wind diffusion is also not observed in the solution. An error analysis is presented, and the effectiveness of the proposed methodology is well demonstrated by the steady and unsteady numerical examples.
+abstract: Non-symmetric matrices may arise in the discretization of self-adjoint problems when a Petrov–Galerkin, collocation, or finite-volume method is employed. While these methods have been widely applied, in this paper it is shown that the use of these non-symmetric matrices is incompatable with the conservation of energy in elastodynamics. First, the consistency between the continuous forms of the momentum equation and the energy equation is examined. It is shown that the conservation of linear momentum is equivalent to conservation of energy provided the solution is sufficiently smooth. The semi-discrete counterparts are then analyzed, where it is demonstrated that they are also equivalent, but only conditionally: the mass and stiffness matrices must be symmetric. As a result, employing a non-symmetric method in elastodynamics may artificially generate or dissipate energy. The fully discrete forms with Newmark time integration are then examined where it is shown that unconditionally unstable algorithms may arise. An energy-conserving time integration algorithm is then proposed which provides stability in the solutions of non-symmetric systems. The collocation and finite-volume methods are employed in numerical examples to demonstrate stability issues and the effectiveness of the proposed time integration methodology.
 
 
 tags:
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0045782523008344
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0045782522000950
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
