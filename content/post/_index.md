@@ -5,9 +5,9 @@ title: LATEST NEWS
 view: compact
 # authors: ''
 # Optional banner image (relative to `assets/media/` folder).
-# banner:
-#   caption: ''
-#   image: ''
+banner:
+  caption: ''
+  image: coders.jpg
 sections:
   - block: markdown
     content:
