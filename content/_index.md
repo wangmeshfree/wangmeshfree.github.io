@@ -47,10 +47,10 @@ sections:
   - block: markdown
     content:
       title: |
-        Shell-based spinodal structure simulation by meshfree method
+        A twisted soda can by RKPM meshfree method
       subtitle:
       text: |
-        {{< video src="spinodal.mp4" controls="yes" >}}
+        {{< video src="soda.mp4" controls="yes" >}}
     design:
       columns: '1'
       spacing:
