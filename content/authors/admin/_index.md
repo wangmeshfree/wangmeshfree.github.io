@@ -113,5 +113,5 @@ user_groups:
   - Principal Investigator
 ---
 
-My research interest is the numerical methods for PDEs as opposed to using commercial softwares.
+My research interest is the numerical methods for PDEs as well as the real-world engineering applications.
 {style="text-align: justify;"}
