@@ -82,7 +82,8 @@ features:
   avatar:
     gravatar: false
     shape: square
-    size: 600
+    width: 600px;
+    height: 600px;
   comment:
     provider: ''
     disqus:
