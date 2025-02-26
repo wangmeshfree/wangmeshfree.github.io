@@ -29,7 +29,7 @@ sections:
         Shell-based spinodal structure by RKPM meshfree method
       subtitle:
       text: |
-        {{< video src="spinodal.mp4" controls="yes" >}}
+        {{< video src="spin.mp4" controls="yes" >}}
     design:
       columns: '1'
       spacing:
