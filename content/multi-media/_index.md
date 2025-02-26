@@ -7,6 +7,22 @@ type: landing
 sections:
 
 
+
+
+  - block: markdown
+    content:
+      title: |
+        spinodal shell
+      subtitle:
+      text: |
+        {{< video src="spin.mp4" controls="yes" >}}
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '40px', '0']
+      css_class: fullscreen
+
+
   - block: markdown
     content:
       title: |
