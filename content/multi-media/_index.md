@@ -6,9 +6,31 @@ type: landing
 
 sections:
 
+  - block: markdown
+    content:
+      title: |
+        Landslide by RKPM meshfree method
+      subtitle:
+      text: |
+        {{< video src="landslide.mp4" controls="yes" >}}
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '40px', '0']
+      css_class: fullscreen
 
-
-
+  - block: markdown
+    content:
+      title: |
+        Penetration by RKPM meshfree method
+      subtitle:
+      text: |
+        {{< video src="penetration.mp4" controls="yes" >}}
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '40px', '0']
+      css_class: fullscreen
 
   - block: markdown
     content:
@@ -30,6 +52,20 @@ sections:
       subtitle:
       text: |
         {{< video src="spin.mp4" controls="yes" >}}
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '40px', '0']
+      css_class: fullscreen
+
+
+  - block: markdown
+    content:
+      title: |
+        Concrete printing by RKPM meshfree method
+      subtitle:
+      text: |
+        {{< video src="concrete.mp4" controls="yes" >}}
     design:
       columns: '1'
       spacing:
