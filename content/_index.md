@@ -14,14 +14,14 @@ sections:
       text: |
         <br>
         
-        ** Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.**
+        **Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.**
 
-        ** 南方科技大学力学与航空航天工程系**
+        **南方科技大学力学与航空航天工程系**
 
 
-        ** We have 1 postdoc postion available immediately, 1 PhD position for the fall 2026, and multiple master student positions for the fall 2025. Please feel free to send the CV and a brief introduction of your research and youself to: wangjr@sustech.edu.cn**
+        **We have 1 postdoc postion available immediately, 1 PhD position for the fall 2026, and multiple master student positions for the fall 2026. Please feel free to send the CV and a brief introduction of your research and youself to: wangjr@sustech.edu.cn**
 
-        ** 有一名2026年秋季学期入学的博士研究生名额，以及多名硕士研究生名额。请有意的同学将申请简历以及个人介绍发送至邮箱：wangjr@sustech.edu.cn**
+        **有一名2026年秋季学期入学的博士研究生名额，以及多名硕士研究生名额。请有意的同学将申请简历以及个人介绍发送至邮箱：wangjr@sustech.edu.cn**
 
 
   - block: collection
