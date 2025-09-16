@@ -3,6 +3,10 @@
 title:
 date: 2022-10-24
 type: landing
+banner:
+  caption: ''
+  image: IMG_0859.jpg
+
 
 sections:
   - block: hero
