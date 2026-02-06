@@ -60,6 +60,7 @@
   background: #ffffff;
   font-size: 0;
   gap: 0.2rem;
+  z-index: 1;
 }
 
 .navbar .navbar-brand::before {
@@ -81,6 +82,16 @@
 
 .navbar .navbar-brand-mobile-wrapper {
   display: none;
+}
+
+// Keep hamburger toggle above the welcome header
+.navbar-toggler {
+  position: relative;
+  z-index: 2;
+}
+
+.navbar-toggler i {
+  color: #1f2328;
 }
 
 .navbar .nav-link:hover,
