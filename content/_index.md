@@ -42,6 +42,8 @@ sections:
         **课题组有一个博士后岗位，以及2026入学硕士研究生名额。请有意的同学将申请简历以及个人介绍发送至邮箱：wangjr@sustech.edu.cn**
     design:
       css_class: hero-white
+
+
   # - block: collection
   #   content:
   #     title: Recent & Upcoming Events

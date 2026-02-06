@@ -12,10 +12,13 @@ main:
     weight: 30
   - name: MULTI-MEDIA
     url: multi-media
-    weight: 40
-  - name: EVENTS
-    url: event
-    weight: 45
+    weight: 21
+  # - name: EVENTS
+  #   url: event
+  #   weight: 45
+  - name: TEACHING
+    url: teaching
+    weight: 47
   - name: PUBLICATIONS
     url: publication
     weight: 50
