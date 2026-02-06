@@ -246,6 +246,56 @@
   }
 }
 
+// Mobile adjustments
+@media (max-width: 991.98px) {
+  .navbar {
+    padding-top: calc(0.75rem + 90px);
+    margin-bottom: 12px;
+  }
+
+  .navbar .navbar-brand {
+    height: 90px;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: center;
+  }
+
+  .navbar .navbar-brand::before {
+    font-size: 1.4rem;
+    line-height: 1.1;
+  }
+
+  .navbar .navbar-brand::after {
+    font-size: 0.7rem;
+    line-height: 1.1;
+  }
+
+  .navbar .container,
+  .navbar .container-fluid,
+  .navbar .container-sm,
+  .navbar .container-md,
+  .navbar .container-lg,
+  .navbar .container-xl {
+    max-width: 100%;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .full-bleed-image .container,
+  .full-bleed-image .container-lg,
+  .full-bleed-image .container-md,
+  .full-bleed-image .container-sm,
+  .full-bleed-image .container-xl {
+    max-width: 100%;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .hero-white .hero-lead {
+    max-width: 90%;
+  }
+}
+
 // Boldface names in People section
 .wg-people .people-person h2,
 .wg-people .people-person h2 a {
