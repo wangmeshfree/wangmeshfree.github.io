@@ -7,3 +7,257 @@
 .cta-group {
   justify-content: center;
 }
+
+// Make section titles larger (e.g., News, People, Multi-Media)
+.section-heading h1 {
+  font-size: 3.2rem;
+  line-height: 1.2;
+  color: #000;
+}
+
+@media (max-width: 768px) {
+  .section-heading h1 {
+    font-size: 2.4rem;
+  }
+}
+
+// Make top navigation section names (e.g., News, People, Multi-Media) bigger
+.navbar .nav-link,
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-nav .nav-link span {
+  font-size: 0.9rem;
+  padding: 0.5rem 0.5rem;
+  color: #1E8E3E;
+  font-weight: 600;
+}
+
+// Add underline to each section name in navbar
+.navbar .nav-link span {
+  display: inline-block;
+  padding-bottom: 0.02rem;
+  border-bottom: 1.2px solid currentColor;
+}
+
+// Add a slim top bar above the main navbar links
+.navbar {
+  position: relative;
+  padding-top: calc(1.5rem + 184px);
+  box-shadow: none;
+  margin-bottom: 1px;
+}
+
+// Hide the original brand name and use it as the welcome link
+.navbar .navbar-brand {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  font-size: 0;
+  gap: 0.2rem;
+}
+
+.navbar .navbar-brand::before {
+  content: "Wang Research Group";
+  color: #1f2328;
+  font-size: 3.0rem;
+  line-height: 1.2;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.navbar .navbar-brand::after {
+  content: "Advanced Computational Methods for Solid Mechanics";
+  color: #6a737d;
+  font-size: 0.9rem;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+.navbar .navbar-brand-mobile-wrapper {
+  display: none;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar .nav-link.active,
+.navbar .navbar-nav .nav-link.active,
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus {
+  color: #166F30;
+}
+
+// Place search icon with nav items (not far right)
+.navbar .container,
+.navbar .container-fluid,
+.navbar .container-sm,
+.navbar .container-md,
+.navbar .container-lg,
+.navbar .container-xl {
+  justify-content: flex-start;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar .nav-icons.navbar-nav {
+  margin-left: 0 !important;
+  padding-left: 0.5rem;
+}
+
+// Add more space between each top nav item
+.navbar .nav-item {
+  margin-left: 0.4rem;
+  margin-right: 0.4rem;
+}
+
+// Justify navbar items across the row
+.navbar .main-menu-item .navbar-nav {
+  width: 100%;
+  justify-content: space-between;
+  flex: 1 1 auto;
+}
+
+.navbar .main-menu-item,
+.navbar .navbar-collapse {
+  width: 100%;
+}
+
+// Remove extra margins so justify is visible
+.navbar .main-menu-item .nav-item {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+// Constrain multi-media blocks to video width
+.video-narrow .container,
+.video-narrow .container-lg,
+.video-narrow .container-md,
+.video-narrow .container-sm,
+.video-narrow .container-xl {
+  max-width: 900px;
+}
+
+// Full-bleed welcome image on homepage
+.full-bleed-image .container,
+.full-bleed-image .container-lg,
+.full-bleed-image .container-md,
+.full-bleed-image .container-sm,
+.full-bleed-image .container-xl {
+  max-width: 1340px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.full-bleed-image {
+  margin-top: 12px;
+  padding-top: 1.0rem;
+  padding-bottom: 1rem;
+}
+
+.full-bleed-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+// Match Latest News banner image style
+.article-banner {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  padding-top: 2.0rem;
+  padding-bottom: 1rem;
+  box-sizing: border-box;
+}
+
+// Match latest news thumbnails to welcome image style
+.stream-item .ml-3 img,
+.stream-item img {
+  border-radius: 15px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+// Stack hero image below text
+.wg-hero .row {
+  flex-direction: column;
+}
+
+// White background for hero section
+.hero-white,
+.hero-white.home-section,
+.hero-white .home-section-bg {
+  background: #ffffff;
+}
+
+// Justify hero text and shrink width
+.hero-white .hero-lead {
+  text-align: justify;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0.95rem;
+}
+
+.hero-white .hero-title {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.hero-white {
+  padding-top: 0.2rem;
+}
+
+.wg-hero .col-md-6 {
+  max-width: 100%;
+  flex: 0 0 100%;
+}
+
+.wg-hero .hero-media {
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 991.98px) {
+  .video-narrow .container,
+  .video-narrow .container-lg,
+  .video-narrow .container-md,
+  .video-narrow .container-sm,
+  .video-narrow .container-xl {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .navbar .nav-link {
+    font-size: 1.1rem;
+  }
+}
+
+// Boldface names in People section
+.wg-people .people-person h2,
+.wg-people .people-person h2 a {
+  font-weight: 700;
+}
+
+// Hide powered-by credit line in footer
+.powered-by:not(.copyright-license-text):not(.footer-license-icons) {
+  display: none;
+}
+
+// Slightly larger copyright text
+.copyright-license-text {
+  font-size: 1.15rem;
+}

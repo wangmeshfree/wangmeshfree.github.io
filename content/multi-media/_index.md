@@ -12,12 +12,12 @@ sections:
         Landslide by RKPM meshfree method
       subtitle:
       text: |
-        {{< video src="landslide.mp4" controls="yes" >}}
+        {{< video src="landslide.mp4" poster="multi-media-posters/landslide.png" controls="yes" >}}
     design:
       columns: '1'
       spacing:
         padding: ['40px', '0', '40px', '0']
-      css_class: fullscreen
+      css_class: video-narrow
 
   - block: markdown
     content:
@@ -25,12 +25,12 @@ sections:
         Penetration by RKPM meshfree method
       subtitle:
       text: |
-        {{< video src="penetration.mp4" controls="yes" >}}
+        {{< video src="penetration.mp4" poster="multi-media-posters/penetration.png" controls="yes" >}}
     design:
       columns: '1'
       spacing:
         padding: ['40px', '0', '40px', '0']
-      css_class: fullscreen
+      css_class: video-narrow
 
   - block: markdown
     content:
@@ -38,12 +38,12 @@ sections:
         A twisted soda can by RKPM meshfree method
       subtitle:
       text: |
-        {{< video src="soda.mp4" controls="yes" >}}
+        {{< video src="soda.mp4" poster="multi-media-posters/soda.png" controls="yes" >}}
     design:
       columns: '1'
       spacing:
         padding: ['40px', '0', '40px', '0']
-      css_class: fullscreen
+      css_class: video-narrow
 
   - block: markdown
     content:
@@ -51,12 +51,12 @@ sections:
         Shell-based spinodal structure by RKPM meshfree method
       subtitle:
       text: |
-        {{< video src="spin.mp4" controls="yes" >}}
+        {{< video src="spin.mp4" poster="multi-media-posters/spinodal.png" controls="yes" >}}
     design:
       columns: '1'
       spacing:
         padding: ['40px', '0', '40px', '0']
-      css_class: fullscreen
+      css_class: video-narrow
 
 
   - block: markdown
@@ -65,12 +65,12 @@ sections:
         Concrete printing by RKPM meshfree method
       subtitle:
       text: |
-        {{< video src="concrete.mp4" controls="yes" >}}
+        {{< video src="concrete.mp4" poster="multi-media-posters/concrete.png" controls="yes" >}}
     design:
       columns: '1'
       spacing:
         padding: ['40px', '0', '40px', '0']
-      css_class: fullscreen
+      css_class: video-narrow
 
   # - block: markdown
   #   content:
