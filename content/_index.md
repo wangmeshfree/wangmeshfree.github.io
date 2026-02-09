@@ -12,20 +12,10 @@ sections:
       title:
       subtitle:
       text: |
-        {{< figure src="landing_thai.jpg" >}}
+        {{< figure src="landing_thai_smal_1.jpg" >}}
     design:
       columns: '1'
       css_class: full-bleed-image
-
-  - block: hero
-    content:
-      title: About
-      text: |
-
-        
-        **Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.** **南方科技大学力学与航空航天工程系**
-    design:
-      css_class: hero-white
 
   - block: hero
     content:
@@ -39,6 +29,19 @@ sections:
         **课题组有一个博士后岗位，以及2026入学硕士研究生名额。请有意的同学将申请简历以及个人介绍发送至邮箱：wangjr@sustech.edu.cn**
     design:
       css_class: hero-white
+
+
+  - block: hero
+    content:
+      title: About
+      text: |
+
+        
+        **Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.**    **南方科技大学力学与航空航天工程系**
+    design:
+      css_class: hero-white
+
+
 
 
   # - block: collection
