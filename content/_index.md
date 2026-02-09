@@ -12,7 +12,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{< figure src="welcome.jpg" >}}
+        {{< figure src="landing_thai.jpg" >}}
     design:
       columns: '1'
       css_class: full-bleed-image
@@ -24,9 +24,6 @@ sections:
 
         
         **Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology, Shenzhen, CHINA.** **南方科技大学力学与航空航天工程系**
-
-        
-
     design:
       css_class: hero-white
 
