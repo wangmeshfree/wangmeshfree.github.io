@@ -158,6 +158,11 @@
   max-width: 900px;
 }
 
+// Smaller text in video-narrow sections
+.video-narrow {
+  font-size: 0.95rem;
+}
+
 // Full-bleed welcome image on homepage
 .full-bleed-image .container,
 .full-bleed-image .container-lg,
