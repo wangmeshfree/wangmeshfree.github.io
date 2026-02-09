@@ -11,4 +11,8 @@ sections:
         **Teaching content coming soon.**
     design:
       columns: '1'
+      spacing:
+        padding: ['40px', '0', '40px', '0']
+      css_class: teaching-section
+
 ---

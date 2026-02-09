@@ -158,9 +158,40 @@
   max-width: 900px;
 }
 
-// Smaller text in video-narrow sections
-.video-narrow {
+// Smaller text in video-narrow sections (content only)
+.video-narrow .section-heading p,
+.video-narrow .article-style,
+.video-narrow .markdown {
   font-size: 0.95rem;
+}
+
+// Smaller titles in video-narrow sections
+.video-narrow .section-heading h1,
+.video-narrow .section-heading h2,
+.video-narrow .section-heading h3 {
+  font-size: 2rem;
+}
+
+// Teaching section styles (content only)
+.teaching-section .section-heading p,
+.teaching-section .article-style,
+.teaching-section .markdown {
+  font-size: 0.95rem;
+}
+
+// Smaller titles in teaching section
+.teaching-section .section-heading h1,
+.teaching-section .section-heading h2,
+.teaching-section .section-heading h3 {
+  font-size: 2rem;
+}
+
+.teaching-section .container,
+.teaching-section .container-lg,
+.teaching-section .container-md,
+.teaching-section .container-sm,
+.teaching-section .container-xl {
+  max-width: 900px;
 }
 
 // Full-bleed welcome image on homepage
