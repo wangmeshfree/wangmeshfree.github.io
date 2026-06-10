@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: MAE 8001 Continuum Mechanics Spring 2026
+      title: "MAE 8001 Continuum Mechanics Spring 2026<br>[Syllabus](/media/multi-media-posters/Continuum_Mechanics_Syllabus_Graduate.pdf)"
       text: |
         <img src="/media/multi-media-posters/MAE8001_Course%20review-1.jpg" alt="MAE 8001 Course review 1" style="display:block;width:100%;height:auto;margin:0 0 24px 0;">
 
