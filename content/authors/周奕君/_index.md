@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Yingjie Chu 褚英杰
+title: Yijun Zhou 周奕君
 
 # Full name (for SEO)
-first_name: Yingjie   
-last_name: Chu
+first_name: Yijun   
+last_name: Zhou
 
 # Username (this should match the folder name)
 authors:
-  - 褚英杰
+  - 周奕君
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student, 2026
+role: Master student, 2026
 
 # Organizations/Affiliations
 organizations:
@@ -31,9 +31,9 @@ bio:
 
 education:
   courses:
-    - course: M.S in Civil Engineering
-      institution:  Xiamen University
-      year: 2025
+    - course: BS in Mechanical Engineering
+      institution:  Nanjing University of Science and Technology
+      year: 2026
 
 
 # Social/Academic Networking
