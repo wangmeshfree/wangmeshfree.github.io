@@ -14,6 +14,8 @@ sections:
             <summary>MAE 5036 Advanced Computational Solid Mechanics II Fall 2026 </summary>
             <div class="course-content">
               <p class="course-syllabus"><a href="/media/26fall/MAE_5036_Computational_Solid Mechanics_Syllabus.pdf">Syllabus</a></p>
+              <p class="course-syllabus"><a href="/media/26fall/MAE_5036_HW1.pdf">Homework1</a></p>
+              <p class="course-syllabus"><a href="/media/26fall/MAE_5036_HW2.pdf">Homework2</a></p>
             </div>
           </details>
 
