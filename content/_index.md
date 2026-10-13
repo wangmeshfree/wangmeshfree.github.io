@@ -24,9 +24,9 @@ sections:
 
 
 
-        **We have 1 postdoc postion available immediately, and master student positions for the fall 2026. Please feel free to send the CV and a brief introduction of your research and youself to：wangjr@sustech.edu.cn**
+        **We have 1 postdoc postion available immediately, and master student positions for the fall 2027. Please feel free to send the CV and a brief introduction of your research and youself to：wangjr@sustech.edu.cn**
 
-        **课题组有一个博士后岗位，以及2026入学硕士研究生名额。请有意的同学将申请简历以及个人介绍发送至邮箱：wangjr@sustech.edu.cn**
+        **课题组有一个博士后岗位，以及2027入学推免、统考硕士研究生名额。请有意的同学将申请简历以及个人介绍发送至邮箱：wangjr@sustech.edu.cn**
     design:
       css_class: hero-white
 
